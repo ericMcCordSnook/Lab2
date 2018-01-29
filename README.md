@@ -13,6 +13,8 @@ Activity 3:
  
  Activity 4: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/122
  
+ Activity 5: see Activity 1 hello-world repo
+ 
  
 
 
